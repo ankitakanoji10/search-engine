@@ -1,4 +1,4 @@
-# Search App Tutorial
+# Search Engine
 
 This was created using HTML, CSS, Javascript, the Javascript Fetch API with Async / Await to retrieve search results from the Wikipedia API.
 
